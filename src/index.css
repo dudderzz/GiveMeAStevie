@@ -7,6 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: wheat;
   color: black;
+  align-self: center;
+  align-items: center;
 }
 
 code {
@@ -25,22 +27,18 @@ code {
   background-color: wheat;
 }
 
-.quoteDisplay {
-  align-self: center;
+.quote {
   position: absolute;
   color: black;
   width: 500px;
-  top: 50%;
+  top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 2em;
-  border-radius: 10px, 10px, 10px, 10px;
+  border-radius: 20px, 20px, 20px, 20px;
 }
 
 .spicyButton {
-  padding: 30px 30x;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 30px;
+  top: 30%;
+  border-radius: 28px, 28px, 28px, 28px;
 }

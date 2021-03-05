@@ -23,18 +23,18 @@ const App = () => {
   }
 
   return (
-    <div className="App">
-      <div className="quoteBox">
+    <body>
+      <div className="App">
         <div className="quote">
           <h1>🌶</h1>
           <h2 id="quoteDisplay">What would Stevie Say?</h2>
           <b>McCann, S (2021)</b>
-        </div>
-        <div className="spicyButton">
-          <button onClick={newQuote}>Give me something spicy 🌶</button>
+          <div className="spicybutton">
+            <button onClick={newQuote}>Give me something spicy 🌶</button>
+          </div>
         </div>
       </div>
-    </div>
+    </body>
   );
 };
 
