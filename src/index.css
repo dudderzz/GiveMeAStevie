@@ -26,6 +26,7 @@ code {
 }
 
 .quoteDisplay {
+  align-self: center;
   position: absolute;
   color: black;
   width: 500px;
@@ -36,10 +37,7 @@ code {
   border-radius: 10px, 10px, 10px, 10px;
 }
 
-.button {
-  color: rgb(124, 37, 37);
-  border: 300px;
-  border-color: black;
+.spicyButton {
   padding: 30px 30x;
   text-align: center;
   text-decoration: none;
