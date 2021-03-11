@@ -1,8 +1,7 @@
-// const App = () => {
 let stevieQuotes = [
   "'I didn’t want to piss on his battery'",
   "'Really going to get into the beef and gravy of it today'",
-  "A' lie can travel halfway around the world while the truth is putting on its shoes'",
+  "'A lie can travel halfway around the world while the truth is putting on its shoes'",
   "'I don’t have an example to show you, but if you go into your minds eye for a moment and imagine it'",
   "'Feels like I’ve picked up a car instead of using a hammer'",
   "'Fucking UX again Man'",
@@ -21,23 +20,3 @@ function newQuote() {
   document.getElementById("quoteDisplay").innerHTML =
     stevieQuotes[randomNumber];
 }
-
-//   return (
-//     <html lang="en">
-//       <body>
-//         <div className="App">
-//           <div className="quote">
-//             <h1>🌶</h1>
-//             <h2 id="quoteDisplay">What would Stevie Say?</h2>
-//             <b>McCann, S (2021)</b>
-//             <div className="spicybutton">
-//               <button onClick={newQuote}>Give me something spicy 🌶</button>
-//             </div>
-//           </div>
-//         </div>
-//       </body>
-//     </html>
-//   );
-// };
-
-// export default App;
