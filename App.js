@@ -1,7 +1,6 @@
 let stevieQuotes = [
   "'I didn’t want to piss on his battery'",
   "'Really going to get into the beef and gravy of it today'",
-  "'A lie can travel halfway around the world while the truth is putting on its shoes'",
   "'I don’t have an example to show you, but if you go into your minds eye for a moment and imagine it'",
   "'Feels like I’ve picked up a car instead of using a hammer'",
   "'Fucking UX again Man'",
@@ -12,7 +11,11 @@ let stevieQuotes = [
   "'Meme implied'",
   "'I like the cut of your jab'",
   "'Is all free sailing now'",
-  "'It’s all free sailing today lads'",
+  "'I like to live bi-curiously through you'",
+  "'Go forth and develop'",
+  "'I'm just throwing shit at the wall to see what sticks'",
+  "'Feel free to piss on my chips… but…'",
+  "'The question is…Do you want a new wheel or a pre-owned wheel with lots of bolt ons'",
 ];
 
 function newQuote() {
