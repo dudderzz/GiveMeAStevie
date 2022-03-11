@@ -19,12 +19,12 @@ function App() {
         </span>
       </h1>
       <div>
-        <h2>What would Stevie Say?</h2>
+        <h2>What would the Champions Guild elect say?</h2>
 
         {quote && (
           <blockquote>
             <h3>{quote}</h3>
-            <cite>&mdash;McCann, S (2021)</cite>
+            <cite>Cinatilis Out Of Context (2022)</cite>
           </blockquote>
         )}
 
