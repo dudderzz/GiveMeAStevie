@@ -19,4 +19,5 @@ export const quotes = [
   'I have told you, the rings are in the bottle". Onyx (2022)',
   'I wear the ring as a knuckle duster". Einkil Bofdane (2022)',
   'Why does he keep going Scottish?" Halcyon Glorykeep(2022)',
+  'Would you like some dried meat? We can share it together" Valas Elanzath (2022)',
 ];
